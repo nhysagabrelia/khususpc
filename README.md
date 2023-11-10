@@ -1,0 +1,2 @@
+# khususpc
+Run windows
